@@ -1,6 +1,6 @@
 # Scrapy-Quotes
 
-Códigos em Python 🐍 para Extracão de informações (Web crawling) no site <a>http://quotes.toscrape.com/</a> utilizando a biblioteca Scrapy.
+Códigos em Python 🐍 para Extração de informações (Web crawling) no site <a>http://quotes.toscrape.com/</a> utilizando a biblioteca Scrapy.
 
 # Scrapy 
 
